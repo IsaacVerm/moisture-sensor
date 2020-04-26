@@ -2,6 +2,15 @@
 
 Code to read moisture levels.
 
+## Useful commands
+
+You often need to do the following:
+
+- SSH into Raspberry
+  - [how to enable](https://www.raspberrypi.org/documentation/remote-access/ssh/)
+  - [how to execute](https://www.raspberrypi.org/documentation/remote-access/ssh/unix.md)
+- [SCP](https://www.raspberrypi.org/documentation/remote-access/ssh/scp.md) to Raspberry (to upload code)
+
 ## Useful resources
 
 Sensor used is [Grove Moisture Sensor v1.4](https://www.mouser.com/datasheet/2/744/Seeed_101020008-1217463.pdf).
